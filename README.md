@@ -71,5 +71,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - UCI Machine Learning Repository for providing the dataset.
 - Open-source libraries and contributors for tools used in this project.
+- Aliki Vassili
 
 
