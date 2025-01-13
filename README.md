@@ -8,10 +8,8 @@ This repository contains a machine learning project focused on predicting cervic
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
 3. [Project Overview](#project-overview)
-4. [Usage](#usage)
-5. [Results](#results)
-6. [Contributing](#contributing)
-7. [License](#license)
+4. [Results](#results)
+5. [License](#license)
 
 ---
 
@@ -53,29 +51,6 @@ Cervical cancer is a significant health concern worldwide, and early detection i
 
 ---
 
-## Usage
-
-### Prerequisites
-- Python 3.7 or higher
-- Required Python libraries: Install dependencies using `pip install -r requirements.txt`.
-
-### Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/AI-for-Cervical-Cancer-Risk-Prediction.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd AI-for-Cervical-Cancer-Risk-Prediction
-   ```
-3. Open the Jupyter notebook:
-   ```bash
-   jupyter notebook MAI643_project_NEW_FINAL.ipynb
-   ```
-4. Follow the steps in the notebook to explore the data and build the model.
-
----
-
 ## Results
 
 The project achieved the following results:
@@ -83,27 +58,6 @@ The project achieved the following results:
 - Developed a predictive model with high accuracy and balanced performance metrics.
 
 Key visualizations and performance metrics are included in the notebook.
-
----
-
-## Contributing
-
-Contributions are welcome! If you have ideas for improving the analysis or model, please feel free to fork the repository and submit a pull request.
-
-1. Fork the repository
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add new feature or improvement'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch
-   ```
-5. Open a pull request
 
 ---
 
