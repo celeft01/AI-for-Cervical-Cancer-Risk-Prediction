@@ -9,7 +9,6 @@ This repository contains a machine learning project focused on predicting cervic
 2. [Dataset](#dataset)
 3. [Project Overview](#project-overview)
 4. [Results](#results)
-5. [License](#license)
 
 ---
 
@@ -58,12 +57,6 @@ The project achieved the following results:
 - Developed a predictive model with high accuracy and balanced performance metrics.
 
 Key visualizations and performance metrics are included in the notebook.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
